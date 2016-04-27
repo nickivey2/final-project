@@ -1,16 +1,27 @@
-**Please change the Title of this issue to include your username, something like: halfaro1's Final Project Proposal. When you've done that, you can remove this line and fill in the rest of the body of this issue below.**
+Nick Ivey Jarvis Final Project
 
 ### Name
-What's your real name? Enter your first and last name in place of this text, please.
+Nicholas Ivey 
 
 ### Proposed Project Description
-Give a detailed description of what you'd like to do for your final project (5+ sentences). Feel free to replace this text with your description.
+I am going to port my Jarvis Personal Assistant I created in C# prior to this class to Python.
+https://github.com/nickivey/Jarvis
+Old Video: https://www.youtube.com/watch?v=6Fyzdf_DOE0
+Porting Jarvis to Python will allow me to run Jarvis on my Raspberry Pi instead of a Windows Machine. Using Google Voice Recognition, Jarvis will tell you the day of the week, time, and the weather. Also Jarvis will be able to perform google searches and control system volume.
 
 ### Connecting Concepts
-What chapters/topics will this project allow you to practice? A good final project will cover at least 2 distinct topics from class.
+-Functions
+-Classes
+-Looping
+-Arrays
+-Manipulating Strings
 
 ### Timing
-How long do you think this project will take to implement? Feel free to give a brief timeline of tasks you'd like to accomplish with dates.
+4/20/2016: Approval
+4/21/2016: Begin Development
+4/24/2016: Layout of application
+4/26/2016: Finalizing features
+4/27/2016: Submit Application
 
 ### Asking for...
-What kind of feedback can your classmates and professor provide to help you be successful?
+Any ideas or suggestions.
