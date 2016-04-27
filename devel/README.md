@@ -14,3 +14,4 @@ pip install pyowm
 
 # To run jarvis run run.py 
 # Using your computer microphone you can ask jarvis the time, day, weather, and he can even preform a google search for you. 
+# To close jarvis say "go away", "shut down", or "stop listening"

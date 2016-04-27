@@ -1,0 +1,11 @@
+Jarvis Design 
+
+
+Using the speech recognition python module, Jarvis will listen for his defined pharses and respond using either osx's terminal "say" command or pyttsx module in windows.
+
+The program has a logger implemented for easy debugging
+ 
+run.py loops listening for a valid string recognized by speech recognition and then sends it to the handler function in the Jarvis.py class. 
+
+Jarvis.py then checks if the speech recognized has any meaning to jarvis. 
+
